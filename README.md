@@ -1,0 +1,2 @@
+# DEMO
+Individual templates
